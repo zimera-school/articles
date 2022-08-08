@@ -1,8 +1,9 @@
 # Articles
 
-Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 
 ## List of Independent Articles
+
+### Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 
 1. [AsciiDoc(tor) for Technical Documentation](01-asciidoctor-technical-docs/). [Original article](https://dev.to/zimera/asciidoc-tor-for-technical-documentation-34jj).
 2. [SpaceVim and Language Server Protocol](02-spacevim-lsp/). [Original article](https://dev.to/zimera/spacevim-and-language-server-protocol-49c6).
@@ -13,6 +14,10 @@ Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 7. [WebSharper: Getting Started Easily](07-websharper-getting-started-easily/). [Original article](https://dev.to/zimera/websharper-getting-started-easily-5haa).
 8. [Using YugabyteDB in Python App Development](08-python-yugabytedb/). [Original article](https://dev.to/zimera/using-yugabytedb-in-python-app-development-2en5).
 9. [Getting Started with Redis and RedisGraph](09-getting-started-redis-redisgraph/). [Original article](https://dev.to/zimerasystems/getting-started-with-redis-and-redisgraph-3mk8).
+
+### Articles in this repo
+
+1. [Getting Started with ArangoDB](repo-01-getting-started-arangodb/).
 
 ## List of Series
 
